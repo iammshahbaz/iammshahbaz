@@ -6,8 +6,8 @@
 </h5>
 <img align ="right" alt="coding" width = "300" src="https://img.freepik.com/free-vector/man-working-laptop-with-coffee-stationary-cartoon-vector-illustration_138676-2206.jpg?size=338&ext=jpg&ga=GA1.1.1448711260.1706745600&semt=ais">
 
-- 🔭 My Masai 5th unit project based on React : <a href="software-kalaakar-5678.netlify.app/">EduSprint</a>
-- 🔭 My Masai 4th unit project based on HTML+CSS+JavaScript : <a href="stayhub-com.netlify.app/">StayHub</a>
+- 🔭 My Masai 5th unit project based on React : <a href="https://software-kalaakar-5678.netlify.app/">EduSprint</a>
+- 🔭 My Masai 4th unit project based on HTML+CSS+JavaScript : <a href="https://stayhub-com.netlify.app/">StayHub</a>
 - 🔭 My Masai 4th unit project based on HTML+CSS+Sass : <a href="https://654774d486d57236185874c4--fabulous-vacherin-8bfad4.netlify.app/">PortFolio and Contacts Page</a>
 
 - 🌱 I’m currently learning **Data Structures and MERN Stack.**
