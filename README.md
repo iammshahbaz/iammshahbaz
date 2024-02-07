@@ -35,3 +35,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iammshahbaz&" alt="iammshahbaz" /></p>
 </div>
+<div align="center"> 
+<img src="https://github-profile-trophy.vercel.app/?username=iammshahbaz&column=-1&theme=onedark&rank=-?&margin-w=0" width="40%"/>
+ </div>
