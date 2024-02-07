@@ -4,7 +4,7 @@
 <p align='center'> <img src="https://readme-typing-svg.demolab.com?weight=800&size=25&pause=1000&color=14F765&background=FFFFFF00&center=true&width=435&lines=A+Full+Stack+Web+Developer💻;A+Problem+Solver"/></p>
 <h4 align="center">I’m a full-stack web developer and creative coder who specializes in MERN stack development. A passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems.
 </h4>
-<img align ="right" alt="coding" width = "300" src="https://img.freepik.com/free-vector/man-working-laptop-with-coffee-stationary-cartoon-vector-illustration_138676-2206.jpg?size=338&ext=jpg&ga=GA1.1.1448711260.1706745600&semt=ais">
+<img align ="right" alt="coding" width = "300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 My Masai 5th unit project based on React : <a href="https://software-kalaakar-5678.netlify.app/">EduSprint</a>
 - 🔭 My Masai 4th unit project based on HTML+CSS+JavaScript : <a href="https://stayhub-com.netlify.app/">StayHub</a>
