@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **shahbaz.ahamed1995@gmail.com**
 
-- 📄 Know about my experiences  <a href="https://drive.google.com/drive/u/0/folders/1gYzoVpDvqNeuPwcx2ocPmg_6YifQGOCw">Resume</a>
+- 📄 Know about my experiences  <a href="https://drive.google.com/file/d/1SfK1K1hyTbCK4CDuBtf1T1jxm1r4yJ3i/view?usp=sharing" target="_blank">Resume</a>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
