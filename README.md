@@ -2,8 +2,11 @@
 ![logo](https://github.com/iammshahbaz/iammshahbaz/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Shahbaz Ahmad</h1>
 <p align='center'> <img src="https://readme-typing-svg.demolab.com?weight=800&size=25&pause=1000&color=14F765&background=FFFFFF00&center=true&width=435&lines=A+Full+Stack+Web+Developer💻;A+Problem+Solver"/></p>
+<img src="https://komarev.com/ghpvc/?username=iammshahbaz&style=flat-square&color=blue" alt=""/>
 <h4 align="center">I’m a full-stack web developer and creative coder who specializes in MERN stack development. A passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems.
 </h4>
+</div>
+</div>
 <img align ="right" alt="coding" width = "300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 My Masai 5th unit project based on React : <a href="https://software-kalaakar-5678.netlify.app/">EduSprint</a>
